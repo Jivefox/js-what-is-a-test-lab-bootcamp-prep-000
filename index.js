@@ -2,7 +2,7 @@
 var name = "Susan"
 var height = 74
 if (false) {
-  
+  console.log('74')
 }
 var message = ` is ${height} inches tall`
 
