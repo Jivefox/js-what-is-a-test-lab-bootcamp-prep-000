@@ -1,7 +1,7 @@
 // write your code below!
 var name = "Susan"
 var height = 74
-if (74<40) {
+if (74 < 40) {
   console.log('74')
 }
 else {
