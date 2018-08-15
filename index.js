@@ -5,7 +5,7 @@ if (74<40) {
   console.log('74')
 }
 else {
-  console.log74
+  console.log('74')
 }
 var message = ` is ${height} inches tall`
 
